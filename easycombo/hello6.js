@@ -1,1 +1,2 @@
 define({ foo : 'bar' });
+haha
